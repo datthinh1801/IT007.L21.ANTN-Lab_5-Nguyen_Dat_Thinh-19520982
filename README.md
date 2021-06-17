@@ -1,4 +1,8 @@
-# IT007.L21.ANTN-Lab_5-Nguyen_Dat_Thinh-19520982
+# IT007.L21.ANTN
+- Lab 5  
+- Nguyen Dat Thinh  
+- 19520982
+
 ## 5.4.3
 Nhận xét kết quả chạy
 ```
